@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.name {
+  color: red;
+  display: grid;
+  flex-direction: center;
+  justify-content: center;
+}
